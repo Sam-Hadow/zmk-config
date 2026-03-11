@@ -1,0 +1,6 @@
+if SHIELD_NUMPAD3D
+
+config ZMK_KEYBOARD_NAME
+    default "numpad3d"
+
+endif # SHIELD_NUMPAD3D
