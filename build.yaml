@@ -21,3 +21,4 @@
 include:
   - board: nrfmicro_13
     shield: numpad3d
+    snippet: studio-rpc-usb-uart
