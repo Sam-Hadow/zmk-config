@@ -1,0 +1,6 @@
+if SHIELD_KEEB60_3D
+
+config ZMK_KEYBOARD_NAME
+    default "keeb60_3d"
+
+endif # SHIELD_KEEB60_3D
